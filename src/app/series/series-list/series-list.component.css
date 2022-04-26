@@ -1,0 +1,31 @@
+#cabe{
+  background-color: rgb(255, 255, 255);
+}
+td{
+  background-color: rgba(133, 133, 133, 0.089);
+}
+pre{
+  color: black;
+}
+pre.cal{
+  color: blue;
+}
+#prom{
+  background-color: rgb(255, 255, 255);
+}
+img.imagenes{
+  width: 500px;
+}
+#tablaseries{
+  width: fit-content;
+}
+a{
+  text-decoration: none;
+}
+
+tr{
+  cursor: pointer;
+}
+#prom{
+  border: 0px;
+}
